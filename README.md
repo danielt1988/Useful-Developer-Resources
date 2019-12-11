@@ -12,7 +12,7 @@
 
 ## REMEMBER 
 You can learn a programming language by breaking it down into three phases:
-  1. Memorize enough of the syntax to know you way around the language
+  1. Memorize enough of the syntax to know your way around the language.
   2. Solve problems ([See Coding Exercises](#code-exercises))
   3. Make stuff ([See Project Ideas](#project-ideas))
 > [return to top](#useful-developer-resources)
