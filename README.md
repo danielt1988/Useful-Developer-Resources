@@ -39,22 +39,22 @@
 -  [edabit](https://edabit.com/ )
    -  Great for starting out with coding exercises (Preferd)
 -  [](https://exercism.io/#explore-languages)
--  [](https://github.com/tuvtran/project-based-learning)
--  [](https://gophercises.com/)
--  [](https://www.codingame.com/start)
--  [Code Wars](https://www.codewars.com/ (Prefer))
-      -  Great for starting out with coding exercises (Preferd)
+-  [CodingGame](https://www.codingame.com/start)
+-  [Code Wars](https://www.codewars.com/)  (Preferred)
+      -  Great for starting out with coding exercises.
 -  [CodeSignal](https://codesignal.com/)
 -  [Checkio](https://checkio.org/)
 -  [leetCode](https://leetcode.com/ (Prefer))
--  [](https://www.topcoder.com/)
--  [](https://www.coderbyte.com/)
--  [](https://codecombat.com/  (Prefer))
+-  [Top Coder](https://www.topcoder.com/)
+-  [CoderByte](https://www.coderbyte.com/)
+-  [CodeCombat](https://codecombat.com/)
+	- Because it's fun (Prefer)
 - [return to top](#useful-developer-resources)
 ## Project Ideas:
-	01. http://databaseanswers.org/data_models/index_all_models.htm
-	02. https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/
-	03. https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+- (DatabaseAnswers)[http://databaseanswers.org/data_models/index_all_models.htm]
+- [Reddit-Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
+- [DreamInCode-MegaProjects-List](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+-  [Project-Based-Learning-tuvtran](https://github.com/tuvtran/project-based-learning)
 - [return to top](#useful-developer-resources)
 ## Interview Preparation & Mock Interviewing:
 	01. https://www.pramp.com/#/
@@ -63,6 +63,6 @@
 	04. http://www.codespaghetti.com/
 - [return to top](#useful-developer-resources)
 ## Code Collaboration:
-	01. https://repl.it/
+- [Repl.it](https://repl.it/)
 - [return to top](#useful-developer-resources)
 > List Compiled by Daniel Tucker
