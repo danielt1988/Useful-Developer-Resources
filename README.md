@@ -2,6 +2,7 @@
 - [Useful Developer Resources](#useful-developer-resources)
   - [REMEMBER](#remember)
   - [Awesome GitHub Repositories](#awesome-github-repositories)
+  - [Command Line Basics](#command-line-basics)
   - [Semantic Versioning](#semantic-versioning)
   - [12 Factor App](#12-factor-app)
   - [Code Exercises](#code-exercises)
@@ -26,6 +27,11 @@ You can learn a programming language by breaking it down into three phases:
     - A usefull list of Web Developer Roadmaps to let you know what YOU should know as a Web Developer
 - [Awesome-Roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
     - Developer Roadmaps and More..
+> [return to top](#useful-developer-resources)
+
+## Command Line Basics
+- [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+	- A game to help you learn the basics of a Unix-based CLI.
 > [return to top](#useful-developer-resources)
 
 ## Semantic Versioning
