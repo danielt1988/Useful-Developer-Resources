@@ -67,7 +67,7 @@ You can learn a programming language by breaking it down into three phases:
 -  [Project-Based-Learning-tuvtran](https://github.com/tuvtran/project-based-learning)
 > [return to top](#useful-developer-resources)
 
-## Interview Preparation & Mock Interviewing
+## Interview Preparation and Mock Interviewing
 - [Pramp](https://www.pramp.com/#/)
 - [gainlo](http://www.gainlo.co/#!/)
 - [interviewing](https://interviewing.io/)
