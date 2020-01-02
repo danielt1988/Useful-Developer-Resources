@@ -7,7 +7,7 @@
   - [12 Factor App](#12-factor-app)
   - [Code Exercises](#code-exercises)
   - [Project Ideas](#project-ideas)
-  - [Interview Preparation &amp; Mock Interviewing](#interview-preparation-amp-mock-interviewing)
+  - [Interview Preparation &amp; Mock Interviewing](#interview-preparation-and-mock-interviewing)
   - [Code Collaboration](#code-collaboration)
 
 
