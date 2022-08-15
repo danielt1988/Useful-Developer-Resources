@@ -65,6 +65,7 @@ You can learn a programming language by breaking it down into three phases:
 - [Reddit-Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 - [DreamInCode-MegaProjects-List](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 -  [Project-Based-Learning-tuvtran](https://github.com/tuvtran/project-based-learning)
+- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 > [return to top](#useful-developer-resources)
 
 ## Interview Preparation and Mock Interviewing
